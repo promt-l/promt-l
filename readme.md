@@ -101,8 +101,8 @@ Currently, I am seeking **software developer / full-stack internship roles** whe
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=promt-l&theme=highcontrast" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=promt-l&layout=compact&theme=highcontrast" height="180em"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kumar-kshitiz&theme=highcontrast" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-kshitiz&layout=compact&theme=highcontrast" height="180em"/>
 </div>
 
 ---
@@ -110,7 +110,7 @@ Currently, I am seeking **software developer / full-stack internship roles** whe
 ## ⚡ Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=promt-l&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar-kshitiz&theme=react-dark"/>
 </div>
 
 ---
